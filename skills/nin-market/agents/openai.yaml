@@ -1,0 +1,4 @@
+interface:
+  display_name: "Nin · 市场机会"
+  short_description: "核对真实需求与替代方案，辨别意向和付款，形成市场验证依据"
+  default_prompt: "请用 $nin-market 结合我提供的材料完成市场机会任务，区分已有证据与待验证项。"

@@ -1,0 +1,128 @@
+{
+  "name": "Ninther Skills",
+  "namespace": "nin",
+  "version": "1.0.1",
+  "created_at": "2026-09-22",
+  "source_book": {
+    "title": "创业地图：商业计划书与创业行动指南",
+    "author": "韩树杰",
+    "published": "2020-09",
+    "pdf_pages": 104
+  },
+  "skills": [
+    {
+      "name": "nin",
+      "display_name": "Ninther Skills",
+      "description": "识别当前创业任务，带着已有资料进入合适专项并交付可执行结果",
+      "source_pdf_pages": "12—20"
+    },
+    {
+      "name": "nin-diagnosis",
+      "display_name": "项目诊断",
+      "description": "用问题方案团队与九模块检查项目，定位证据缺口和下一步验证",
+      "source_pdf_pages": "13—19"
+    },
+    {
+      "name": "nin-positioning",
+      "display_name": "业务定位",
+      "description": "区分业务定位与使命愿景，说清具体客户场景和可以交付的价值",
+      "source_pdf_pages": "23—25"
+    },
+    {
+      "name": "nin-market",
+      "display_name": "市场机会",
+      "description": "核对真实需求与替代方案，辨别意向和付款，形成市场验证依据",
+      "source_pdf_pages": "26—29"
+    },
+    {
+      "name": "nin-product",
+      "display_name": "产品方案",
+      "description": "把需求对应到产品能力与交付场景，验证比较优势和实际使用效果",
+      "source_pdf_pages": "30—31"
+    },
+    {
+      "name": "nin-model",
+      "display_name": "商业模式",
+      "description": "拆清运营盈利营销，核对客户与用户、交付成本及收入现金关系",
+      "source_pdf_pages": "32—33"
+    },
+    {
+      "name": "nin-team",
+      "display_name": "团队组织",
+      "description": "检查业务所需能力与分工，核实团队资源及可持续的合作安排",
+      "source_pdf_pages": "34—38"
+    },
+    {
+      "name": "nin-progress",
+      "display_name": "运营进展",
+      "description": "用九有和原始证据核对项目进度，区分订单收入利润回款与预测",
+      "source_pdf_pages": "39—41"
+    },
+    {
+      "name": "nin-strategy",
+      "display_name": "战略行动",
+      "description": "把目标路径资源转为有条件的里程碑，核对容量预算与调整标准",
+      "source_pdf_pages": "42—44"
+    },
+    {
+      "name": "nin-risk",
+      "display_name": "风险应对",
+      "description": "识别项目关键失败条件与影响，安排具体预警责任和应对动作",
+      "source_pdf_pages": "45—46"
+    },
+    {
+      "name": "nin-funding",
+      "display_name": "融资计划",
+      "description": "判断融资必要性，测算资金用途与支持周期，保留条件和依据",
+      "source_pdf_pages": "47—48"
+    },
+    {
+      "name": "nin-bp",
+      "display_name": "商业计划书",
+      "description": "按九模块三十六点形成可编辑商业计划书，用证据完善关键论证",
+      "source_pdf_pages": "19、54—59"
+    },
+    {
+      "name": "nin-pitch",
+      "display_name": "路演答辩",
+      "description": "写出可直接练习的路演稿，校准表达时间并演练有事实依据的答辩",
+      "source_pdf_pages": "62—67"
+    },
+    {
+      "name": "nin-investor",
+      "display_name": "投资人审视",
+      "description": "用六脉神剑和七伤拳审视项目，形成支持证据与针对性的尽调追问",
+      "source_pdf_pages": "70—77"
+    },
+    {
+      "name": "nin-experiment",
+      "display_name": "创业验证",
+      "description": "将关键假设设计成低成本现实验证，明确观察结果和继续调整条件",
+      "source_pdf_pages": "82—83"
+    },
+    {
+      "name": "nin-survival",
+      "display_name": "经营生存",
+      "description": "在现金与资源约束下识别生存路径，形成可以执行的小闭环和收缩方案",
+      "source_pdf_pages": "93—101"
+    },
+    {
+      "name": "nin-founder",
+      "display_name": "创业者取舍",
+      "description": "用十大关系与五力检查创业约束，讨论就业家庭学业与坚持退出的取舍",
+      "source_pdf_pages": "80—91"
+    },
+    {
+      "name": "nin-project",
+      "display_name": "项目记录",
+      "description": "保存恢复和合并项目证据，保留假设修正历史并生成可追溯报告",
+      "source_pdf_pages": "7—8、39—44、82—83"
+    }
+  ],
+  "aliases": [
+    "Nin-skills",
+    "nin-skills",
+    "Nin",
+    "nin"
+  ]
+}

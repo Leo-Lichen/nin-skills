@@ -1,0 +1,4 @@
+interface:
+  display_name: "Nin · 融资计划"
+  short_description: "判断融资必要性，测算资金用途与支持周期，保留条件和依据"
+  default_prompt: "请用 $nin-funding 结合我提供的材料完成融资计划任务，区分已有证据与待验证项。"

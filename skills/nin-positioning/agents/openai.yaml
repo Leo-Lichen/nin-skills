@@ -1,0 +1,4 @@
+interface:
+  display_name: "Nin · 业务定位"
+  short_description: "区分业务定位与使命愿景，说清具体客户场景和可以交付的价值"
+  default_prompt: "请用 $nin-positioning 结合我提供的材料完成业务定位任务，区分已有证据与待验证项。"

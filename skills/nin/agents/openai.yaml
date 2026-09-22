@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ninther Skills"
+  short_description: "识别当前创业任务，带着已有资料进入合适专项并交付可执行结果"
+  default_prompt: "请用 $nin 结合我的材料完成当前商业任务，给出有证据的判断和可执行下一步。"

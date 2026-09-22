@@ -1,0 +1,4 @@
+interface:
+  display_name: "Nin · 团队组织"
+  short_description: "检查业务所需能力与分工，核实团队资源及可持续的合作安排"
+  default_prompt: "请用 $nin-team 结合我提供的材料完成团队组织任务，区分已有证据与待验证项。"

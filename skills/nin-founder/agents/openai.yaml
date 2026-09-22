@@ -1,0 +1,4 @@
+interface:
+  display_name: "Nin · 创业者取舍"
+  short_description: "用十大关系与五力检查创业约束，讨论就业家庭学业与坚持退出的取舍"
+  default_prompt: "请用 $nin-founder 结合我提供的材料完成创业者取舍任务，区分已有证据与待验证项。"

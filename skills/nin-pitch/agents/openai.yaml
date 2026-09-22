@@ -1,0 +1,4 @@
+interface:
+  display_name: "Nin · 路演答辩"
+  short_description: "写出可直接练习的路演稿，校准表达时间并演练有事实依据的答辩"
+  default_prompt: "请用 $nin-pitch 结合我提供的材料完成路演答辩任务，区分已有证据与待验证项。"

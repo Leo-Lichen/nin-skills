@@ -1,0 +1,4 @@
+interface:
+  display_name: "Nin · 战略行动"
+  short_description: "把目标路径资源转为有条件的里程碑，核对容量预算与调整标准"
+  default_prompt: "请用 $nin-strategy 结合我提供的材料完成战略行动任务，区分已有证据与待验证项。"
