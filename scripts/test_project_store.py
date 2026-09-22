@@ -223,7 +223,10 @@ class StoreBehavior(unittest.TestCase):
                 self.assertEqual(len(output["errors"]), 1)
                 error = output["errors"][0]
                 self.assertEqual(error["claim_id"], "a")
-                self.assertEqual({error["path"], error["conflicting_path"]}, {str(conflicting_path), first["saved"]})
+                self.assertEqual(
+                    {Path(error["path"]).resolve(), Path(error["conflicting_path"]).resolve()},
+                    {conflicting_path.resolve(), Path(first["saved"]).resolve()},
+                )
                 self.assertIn("conflicting content", error["error"])
         with self.assertRaisesRegex(ValueError, "conflicting records"):
             self.save(self.payload)

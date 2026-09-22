@@ -2,7 +2,7 @@
 
 [返回中文首页](../README.md) · [English](../README.en.md)
 
-你只需要准备一个支持本地 Skills 的 Agent，以及一个希望推进的经营问题。**Ninther Skills** 的简称是 **Nin-skills**、**Nin** 或 **nin**，当前版本为 **v1.0.1**。
+你只需要准备一个支持本地 Skills 的 Agent，以及一个希望推进的经营问题。**Ninther Skills** 的简称是 **Nin-skills**、**Nin** 或 **nin**，当前版本为 **v1.0.2**。
 
 Skills 是 Agent 可以读取的任务说明和参考材料。安装后，把业务事实与要交付的结果说清楚，Agent 会按相应技能处理。你不需要先背下18个名字，也不需要先写一份完整创业计划。
 

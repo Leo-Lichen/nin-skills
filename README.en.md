@@ -6,7 +6,7 @@
 
 Ninther Skills, also called **Nin-skills** or **nin**, is a collection of **18 AI agent skills** for starting and running a business. It draws on Han Shujie's *创业地图：商业计划书与创业行动指南* (2020) and covers diagnosis, customers and products, costs and cash, business plans, experiments, and project records.
 
-Current version: **v1.0.1**. Start with `$nin` when you are unsure which skill fits your task.
+Current version: **v1.0.2**. Start with `$nin` when you are unsure which skill fits your task.
 
 ## Who it is for
 
